@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying in: **Vietnam Academy of Cryptography Techniques (KMA)**
 
-- 🌱 I’m currently learning: **Pentest Web**
+- 🌱 I’m currently learning: **Hacking and Coding**
 
 - 📝 I regularly write articles on: [https://d47sec.wordpress.com/](https://d47sec.wordpress.com/)
 
