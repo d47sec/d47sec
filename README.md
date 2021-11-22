@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d47&label=Profile%20views&color=0e75b6&style=flat" alt="d47" /> </p>
 
-- 🔭 I’m currently studying in: **Vietnam Academy of Cryptography Techniques (KMA)**
+- 🔭 I’m currently studying in: **Academy of Cryptography Techniques (KMA)**
 
 - 🌱 I’m currently learning: **Hacking and Coding**
 
