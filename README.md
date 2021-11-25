@@ -10,6 +10,7 @@
 - 📝 I regularly write articles on: [https://d47sec.wordpress.com/](https://d47sec.wordpress.com/)
 
 - 📫 How to reach me: **datdo.230901@gmail.com**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d47sec&layout=compact)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d47sec&layout=compact&theme=radical)](https://github.com/d47sec/github-readme-stats)
 
 
