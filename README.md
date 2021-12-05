@@ -11,6 +11,6 @@
 
 - 📫 How to reach me: **datdo.230901@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d47sec&layout=compact&theme=radical)](https://github.com/d47sec/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d47sec&layout=compact&theme=radical&hide=handlebars,css,scss,html)](https://github.com/d47sec/github-readme-stats)
 
 
